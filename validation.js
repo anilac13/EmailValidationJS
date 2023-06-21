@@ -1,4 +1,4 @@
-let email = RegExp('^[a-zA_Z]{3,}[.a-zA-Z]+[@][a-zA-Z]{2,}[.a-zA-Z]+$');
+let email = RegExp('^[a-zA_Z]{3,}[.a-zA-Z]+[@][a-zA-Z]{2,}[.][.a-zA-Z]+$');
 let input = "abc.xyz@bridgelabz.co.in";
 
 try{
