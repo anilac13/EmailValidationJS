@@ -6,6 +6,6 @@ try{
     console.log("Email is Vaild");
     else throw "Email is Invalid";
 }
-catch(error){
-    console.error(error);
+catch(e){
+    console.error(e);
 }
